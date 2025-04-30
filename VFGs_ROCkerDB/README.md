@@ -1,1 +1,1 @@
-This file contains VFGs databases.
+VFGs ROCker databases.
