@@ -4,7 +4,7 @@ This repository contains VFGs databases and ROCker models, including *acrB*, *pp
 If you use the ROCker models, please cite the paper at Nucleic Acids Res (https://doi.org/10.1093/nar/gkw900).
 
 # Citation
-1. Orellana LH, Rodriguez-R LM, Konstantinidis KT. ROCker: accurate detection and quantification of target genes in short-read metagenomic data sets by modeling sliding-window bitscores. Nucleic Acids Res. 2017;45(3):e14.
+1. Orellana LH, Rodriguez-R LM, Konstantinidis KT. ROCker: accurate detection and quantification of target genes in short-read metagenomic data sets by modeling sliding-window bitscores. *Nucleic Acids Res*. **2017**;45(3):e14.
 
 # Usage
 ## Setp1: compute BLAST file.
