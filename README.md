@@ -1,5 +1,5 @@
 # VFGs_ROCkerModels
-This repository contains VFGs databases and ROCker models, including acrB, ppkA, katA, and adeG genes. If you have any other questions or needs related to the ROCker models, please don't hesitate to contact us (syzhang@des.ecnu.edu.cn). The databases and ROCker models provided here may only be used for academic exchange and are not permitted for commercial use.
+This repository contains VFGs databases and ROCker models, including *acrB*, *ppkA*, *katA*, and *adeG* genes. If you have any other questions or needs related to the ROCker models, please don't hesitate to contact us (syzhang@des.ecnu.edu.cn). The databases and ROCker models provided here may only be used for academic exchange and are not permitted for commercial use.
 
 If you use the ROCker models, please cite the paper at Nucleic Acids Res (https://doi.org/10.1093/nar/gkw900).
 
